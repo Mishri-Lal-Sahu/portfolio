@@ -1,10 +1,12 @@
 import React from "react";
 import Header from "./Components/Header";
 import AboutMe from "./Components/AboutMe";
-import ContactUs from "./Components/ContactUs";
+import {ContactUs} from "./Components/ContactUs";
 import Services from "./Components/Services/Services";
 import Skill from "./Components/Skill";
 import Counter from "./Components/Counter";
+import { Project } from "./Components/Swiper/Project";
+import { Footer } from "./Components/Footer";
 
 function Home() {
   return (
@@ -14,8 +16,9 @@ function Home() {
     <Services/>
     <Skill />
     <Counter />
+    <Project/>
     <ContactUs/>
-    <footer> Footer</footer>
+    <Footer />
     </section>
   )
 }
