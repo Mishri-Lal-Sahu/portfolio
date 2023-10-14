@@ -31,40 +31,40 @@ export default function Services() {
              <li className=" my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>User flow</span></li>
              <li className="my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>Wireframing </span></li>
              <li className="my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>Prototyping</span></li>
-             <li className="my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>Mobile App Desin</span></li>
+             <li className="my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>Mobile App Design</span></li>
            </ul>
         </div>
         <div className="item md:p-10 max-w-[20rem] bg-[#252734] p-6">
            <div className="text-4xl text-white md:text-5xl ml-auto"><SiInteractiondesignfoundation /></div>
-           <div className="text-xl text-white md:py-6 py-4 md:text-2xl">UI/UX Design</div>
+           <div className="text-xl text-white md:py-6 py-4 md:text-2xl">Web Development</div>
            <ul>
-             <li className="my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>Landing Pages</span></li>
-             <li className=" my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>User flow</span></li>
-             <li className="my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>Wireframing </span></li>
-             <li className="my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>Prototyping</span></li>
-             <li className="my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>Mobile App Desin</span></li>
+             <li className="my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>Custom Website Development</span></li>
+             <li className=" my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>Responsive Design</span></li>
+             <li className="my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>E-Commerce Solutions </span></li>
+             <li className="my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>Web Application Development</span></li>
+             <li className="my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>Website Optimization</span></li>
            </ul>
         </div>
         <div className="item md:p-10 max-w-[20rem] bg-[#252734] p-6">
            <div className="text-4xl text-white md:text-5xl ml-auto"><SiInteractiondesignfoundation /></div>
-           <div className="text-xl text-white md:py-6 py-4 md:text-2xl">UI/UX Design</div>
+           <div className="text-xl text-white md:py-6 py-4 md:text-2xl">App Development</div>
            <ul>
-             <li className="my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>Landing Pages</span></li>
-             <li className=" my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>User flow</span></li>
-             <li className="my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>Wireframing </span></li>
-             <li className="my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>Prototyping</span></li>
-             <li className="my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>Mobile App Desin</span></li>
+             <li className="my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>iOS App Development</span></li>
+             <li className=" my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>Android App Development</span></li>
+             <li className="my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>Cross-Platform App Development </span></li>
+             <li className="my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>Custom App Development</span></li>
+             <li className="my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>App Integration Services</span></li>
            </ul>
         </div>
         <div className="item md:p-10 max-w-[20rem] bg-[#252734] p-6">
            <div className="text-4xl text-white md:text-5xl ml-auto"><SiInteractiondesignfoundation /></div>
-           <div className="text-xl text-white md:py-6 py-4 md:text-2xl">UI/UX Design</div>
+           <div className="text-xl text-white md:py-6 py-4 md:text-2xl">Custom Software Development</div>
            <ul>
-             <li className="my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>Landing Pages</span></li>
-             <li className=" my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>User flow</span></li>
-             <li className="my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>Wireframing </span></li>
-             <li className="my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>Prototyping</span></li>
-             <li className="my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>Mobile App Desin</span></li>
+             <li className="my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>Cloud-Based Solutions</span></li>
+             <li className=" my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>Integration Services</span></li>
+             <li className="my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>Quality Assurance and Testing </span></li>
+             <li className="my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>Enterprise Software Solutions</span></li>
+             <li className="my-4 flex text-[#858792]"><span><AiOutlineDoubleRight /></span> <span className='leading-[0.9]'>Tailored Approach</span></li>
            </ul>
         </div>  
       </OwlCarousel>

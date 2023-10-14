@@ -22,13 +22,13 @@ export default class AboutMe extends Component {
       <section className="about-me bg-[#252734] px-4 xl:px-10 pt-10">
         <div className="grid grid-flow-col grid-cols-5  md:grid-cols-4">
           <div className="col-span-2  pt-10 font-['Cormorant_Garamond','serif']">
-            <div class="text-white text-[10px] md:mt-20 md:text-[30px]">
+            <div className="text-white text-[10px] md:mt-20 md:text-[30px]">
               Hello, my name is
             </div>
-            <div class="text-white  xl:text-[50px] md:text-[40] text-[15px] leading-none">
+            <div className="text-white  xl:text-[50px] md:text-[40] text-[15px] leading-none">
               MISHRI LAL SAHU
             </div>
-            <div class="text-white  text-[10px] md:text-[25px] xl:text-[30px]">
+            <div className="text-white  text-[10px] md:text-[25px] xl:text-[30px]">
               And I'am a &nbsp;
               <Typed
                 className="text-[#d00a32] "
@@ -53,19 +53,19 @@ export default class AboutMe extends Component {
                 Get Resume <FiDownload className="ml-[10px]" />
               </a>
             </div>
-            <div class="video-link md:ml-4 xl:ml-20">
+            <div className="video-link md:ml-4 xl:ml-20">
               <a
-                class="wave-btn vbox-item"
+                className="wave-btn vbox-item"
                 href="https://youtu.be/MKjhBO2xQzg"
                 data-autoplay="true"
                 data-vbtype="video"
               >
-                <div class="ripple text-slate-300">
+                <div className="ripple text-slate-300">
                   <BsPlay />
                 </div>
               </a>
 
-              <span class="video-text md:text-base text-[0.825rem] text-slate-300"> Watch Video</span>
+              <span className="video-text md:text-base text-[0.825rem] text-slate-300"> Watch Video</span>
             </div>
           </div>
           <div className="col-span-3 md:col-span-2  sahu">
@@ -73,16 +73,16 @@ export default class AboutMe extends Component {
               <img src={AboutImage} className="max-w-[80%] md:max-w-full" alt="Profile" />
               <div className="shape-half"></div>
               <div className="social-link">
-                <a href="google.com" target="_blank" rel="noreferrer">
+                <a href="https://www.youtube.com/channel/UC89G9Yrbwg4CzGDGoFkbQ_g" target="_blank" rel="noreferrer">
                   <AiFillYoutube />
                 </a>
-                <a href="google.com" target="_blank" rel="noreferrer">
+                <a href="https://wa.me/918419892041?text=Hello!%20I%20have%20question%20for%20your%20service.%20%0ACan%20you%20help%20me%20please%3F" target="_blank" rel="noreferrer">
                   <BsWhatsapp />
                 </a>
-                <a href="google.com" target="_blank" rel="noreferrer">
+                <a href="https://twitter.com/MishriSahu4" target="_blank" rel="noreferrer">
                   <AiOutlineTwitter />
                 </a>
-                <a href="google.com" target="_blank" rel="noreferrer">
+                <a href="https://www.instagram.com/official_mishri_lal_sahu" target="_blank" rel="noreferrer">
                   <AiFillInstagram />
                 </a>
               </div>

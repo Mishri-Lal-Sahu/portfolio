@@ -9,7 +9,7 @@ import Swal from "sweetalert2";
 import withReactContent from "sweetalert2-react-content";
 
 const MySwal = withReactContent(Swal);
-export const ContactUs = () => {
+export const ContactMe = () => {
   emailjs.init("y8FIC7W8Yfv4iyTJ-");
   const handleSubmit = async (data) => {
   await emailjs
