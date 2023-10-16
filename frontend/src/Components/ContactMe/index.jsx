@@ -1,12 +1,13 @@
 import React, { Fragment } from "react";
 import {Breadcrumb} from '../../CommonElements/AbstractElements'
-import Service from "./Service";
-export default function Services() {
-  
+import { ContactUs } from "../ContactUs";
+
+export const ContactMe = () => {
+ 
   return (
     <Fragment>
-    <Breadcrumb title={'Services'} />
-    <Service />
+    <Breadcrumb title={'Contact Me'} />
+    <ContactUs />
     </Fragment>
   );
-}
+};

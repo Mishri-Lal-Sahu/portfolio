@@ -1,11 +1,13 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import { Project } from '../Swiper/Project'
+import { Breadcrumb } from '../../CommonElements/Breadcrumb'
 
 const Projects = () => {
   return (
-    <div>
+    <Fragment>
+    <Breadcrumb title={'Projects'} />
       <Project />
-    </div>
+    </Fragment>
   )
 }
 

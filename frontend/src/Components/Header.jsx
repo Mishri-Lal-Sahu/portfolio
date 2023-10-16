@@ -58,7 +58,9 @@ export default class Header extends Component {
             </div>
           </div>
           <div className="hidden md:block">
+          <Link to='/ContactMe'>
           <button className="border-[1px] border-slate-400 rounded-full text-sm p-4 px-8 flex align-middle leading-4">Hire Me <MdOutlineKeyboardDoubleArrowRight className="ml-4" /></button>
+          </Link>
           </div>
         </div>
       </div>

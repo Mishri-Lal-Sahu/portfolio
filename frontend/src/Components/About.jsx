@@ -1,9 +1,10 @@
-import React, { Component } from "react";
+import React, { Component, Fragment } from "react";
 import Typed from "react-typed";
 import WebFont from "webfontloader";
 import AboutImage from "./../Images/about-image.png";
 import { FiDownload } from "react-icons/fi";
 import "./about.css";
+
 import {
   AiOutlineTwitter,
   AiFillInstagram,
@@ -11,7 +12,7 @@ import {
 } from "react-icons/ai";
 import { BsWhatsapp, BsPlay } from "react-icons/bs";
 
-export default class AboutMe extends Component {
+export default class About extends Component {
   render() {
     WebFont.load({
       google: {
@@ -19,6 +20,7 @@ export default class AboutMe extends Component {
       },
     });
     return (
+      <Fragment>
       <section className="about-me bg-[#252734] px-4 xl:px-10 pt-10">
         <div className="grid grid-flow-col grid-cols-5  md:grid-cols-4">
           <div className="col-span-2  pt-10 font-['Cormorant_Garamond','serif']">
@@ -90,6 +92,7 @@ export default class AboutMe extends Component {
           </div>
         </div>
       </section>
+      </Fragment>
     );
   }
 }
